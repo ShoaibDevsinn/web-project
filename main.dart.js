@@ -104937,7 +104937,7 @@ return A.w(null,r)}})
 return A.x($async$lL,r)}}
 A.Zq.prototype={
 C(a){var s=null,r=A.a([A.ey(new A.axR(),t.Mh),A.ey(new A.axS(),t.hX),A.ey(new A.axT(),t.Ju),A.ey(new A.ay3(),t.j1),A.ey(new A.ay8(),t.Wt),A.ey(new A.ay9(),t.nm),A.ey(new A.aya(),t.d8),A.ey(new A.ayb(),t.Yh),A.ey(new A.ayc(),t.Xp),A.ey(new A.ayd(),t.Ng),A.ey(new A.aye(),t.s4),A.ey(new A.axU(),t.Dg),A.ey(new A.axV(),t.up),A.ey(new A.axW(),t.A2),A.ey(new A.axX(),t.SX),A.ey(new A.axY(),t.yu),A.ey(new A.axZ(),t.I0),A.ey(new A.ay_(),t.Fv),A.ey(new A.ay0(),t.z7),A.ey(new A.ay1(),t.EE),A.ey(new A.ay2(),t.oi),A.ey(new A.ay4(),t.rf),A.ey(new A.ay5(),t.lq),A.ey(new A.ay6(),t.ay)],t.Ds)
-return A.baH(A.bt(B.ca,new A.Gq("/payment_screen.dart",A.bjU(),A.wb(s,"medium",s),!1,s),B.x,!1,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,new A.ay7(a),s,s,s,s,s,s),r)}}
+return A.baH(A.bt(B.ca,new A.Gq("/splash_screen.dart",A.bjU(),A.wb(s,"medium",s),!1,s),B.x,!1,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,new A.ay7(a),s,s,s,s,s,s),r)}}
 A.axR.prototype={
 $1(a){return new A.vT($.aj())},
 $S:596}
@@ -107839,7 +107839,7 @@ C(a){var s,r,q=null,p="Montserrat"
 $.aN.rx$.push(new A.ap4())
 s=A.aX(!1,q,!0,A.dS(q,B.n,B.n,"Add Card",B.e),q,!0,q,q,q,q,q,q,q,q,q,q,new A.ap5(a),q,q,q,q)
 r=t.p
-return A.bT(A.cA(q,!1,B.e,q,q,q,A.ah(A.a([A.bt(q,A.dT(B.v,A.bK("assets/checkout/back_arrow.svg",q,B.C,q,18),23),B.x,!1,q,q,q,q,q,q,q,q,q,q,q,q,q,q,q,q,new A.ap6(a),q,q,q,q,q,q),A.bw(A.aA(A.aQ(B.p,20,B.m,p,q,"Payment"),q,q),1)],r),B.k,B.i,B.f),q,60),B.e,A.cb(new A.Z(B.dc,A.am(A.a([A.W("Cards",q,q,q,A.X(q,q,q,q,q,q,q,q,p,q,q,19,q,q,B.m,q,q,!0,q,q,q,q,q,q,q,q),q,q),A.ao(15),A.i1(new A.ap7(),3,q,B.y,!0),A.ao(15),A.W("PayPal",q,q,q,A.X(q,q,q,q,q,q,q,q,p,q,q,19,q,q,B.m,q,q,!0,q,q,q,q,q,q,q,q),q,q),A.ao(15),A.i1(new A.ap8(),1,q,B.y,!0)],r),B.z,B.i,B.f),q),q,q,B.y),new A.Z(B.O,s,q),q,q)}}
+return A.bT(A.cA(q,!1,B.e,q,q,q,A.ah(A.a([A.bt(q,A.dT(B.v,A.bK("assets/checkout/back_arrow.svg",q,B.C,q,17),23),B.x,!1,q,q,q,q,q,q,q,q,q,q,q,q,q,q,q,q,new A.ap6(a),q,q,q,q,q,q),A.bw(A.aA(A.aQ(B.p,20,B.m,p,q,"Payment"),q,q),1)],r),B.k,B.i,B.f),q,60),B.e,A.cb(new A.Z(B.dc,A.am(A.a([A.W("Cards",q,q,q,A.X(q,q,q,q,q,q,q,q,p,q,q,19,q,q,B.m,q,q,!0,q,q,q,q,q,q,q,q),q,q),A.ao(15),A.i1(new A.ap7(),3,q,B.y,!0),A.ao(15),A.W("PayPal",q,q,q,A.X(q,q,q,q,q,q,q,q,p,q,q,19,q,q,B.m,q,q,!0,q,q,q,q,q,q,q,q),q,q),A.ao(15),A.i1(new A.ap8(),1,q,B.y,!0)],r),B.z,B.i,B.f),q),q,q,B.y),new A.Z(B.O,s,q),q,q)}}
 A.ap4.prototype={
 $1(a){},
 $S:3}
@@ -107851,11 +107851,11 @@ $0(){A.aq(this.a,!1).by(null)},
 $S:0}
 A.ap7.prototype={
 $2(a,b){var s=null
-return A.pq(60,s,s,s,"******* 80484",A.bK("assets/checkout/arrow.svg",s,B.C,s,8))},
+return A.pq(60,s,s,s,"******* 80484",A.bK("assets/checkout/arrow.svg",s,B.C,s,7))},
 $S:114}
 A.ap8.prototype={
 $2(a,b){var s=null
-return A.pq(60,s,s,s,"Cloth@gmail.com",A.bK("assets/checkout/arrow.svg",s,B.C,s,8))},
+return A.pq(60,s,s,s,"Cloth@gmail.com",A.bK("assets/checkout/arrow.svg",s,B.C,s,7))},
 $S:114}
 A.Br.prototype={
 C(a){var s,r=null,q="assets/fav-icon.png",p="assets/checkout/arrow.svg"
